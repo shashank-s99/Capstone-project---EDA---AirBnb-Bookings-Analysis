@@ -1,6 +1,6 @@
-# Capstone-project---EDA---AirBnb-Bookings-Analysis
+# AirBnb Bookings Analysis - EDA + Tableau
 
-https://animationvisarts.com/wp-content/uploads/2017/05/airbnb-banner.jpg
+
 
 
 **Description:**
