@@ -1,6 +1,6 @@
 # AirBnb Bookings Analysis - EDA + Tableau
 
-
+![airbnb-banner](https://github.com/user-attachments/assets/465845fe-9512-4a76-85e0-c3fc51cd9bb9)
 
 
 **Description:**
